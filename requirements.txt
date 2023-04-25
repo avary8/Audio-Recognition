@@ -1,0 +1,8 @@
+librosa
+numpy
+matplotlib
+sklearn
+pandas
+opensmile
+audb
+seaborn
